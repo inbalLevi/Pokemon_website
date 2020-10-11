@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Pokemon_website/static/css/main.6f51db7d.chunk.css",
+    "main.js": "/Pokemon_website/static/js/main.a0cf5d63.chunk.js",
+    "main.js.map": "/Pokemon_website/static/js/main.a0cf5d63.chunk.js.map",
+    "runtime-main.js": "/Pokemon_website/static/js/runtime-main.ae9ee820.js",
+    "runtime-main.js.map": "/Pokemon_website/static/js/runtime-main.ae9ee820.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Pokemon_website/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e006f4b3.chunk.js": "/Pokemon_website/static/js/2.e006f4b3.chunk.js",
+    "static/js/2.e006f4b3.chunk.js.map": "/Pokemon_website/static/js/2.e006f4b3.chunk.js.map",
+    "index.html": "/Pokemon_website/index.html",
+    "precache-manifest.0fc61e7d900907956488ea344cb8efea.js": "/Pokemon_website/precache-manifest.0fc61e7d900907956488ea344cb8efea.js",
+    "service-worker.js": "/Pokemon_website/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Pokemon_website/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.6f51db7d.chunk.css.map": "/Pokemon_website/static/css/main.6f51db7d.chunk.css.map",
+    "static/js/2.e006f4b3.chunk.js.LICENSE.txt": "/Pokemon_website/static/js/2.e006f4b3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Pokemon_website/static/media/SEGA.12a3db8b.woff",
+    "static/media/poki.png": "/Pokemon_website/static/media/poki.f76bc1ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae9ee820.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e006f4b3.chunk.js",
+    "static/css/main.6f51db7d.chunk.css",
+    "static/js/main.a0cf5d63.chunk.js"
+  ]
+}
