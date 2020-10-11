@@ -1,1 +1,1 @@
-# Pokemon_website
+# Pokemon website self project
